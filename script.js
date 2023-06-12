@@ -3,3 +3,5 @@ console.log(123)
 console.log('abc')
 
 console.log(12)
+
+//ovo radim promjenu iz novokreiranog odnsono kloniranog repozitorija i ja sam sada faca :)
